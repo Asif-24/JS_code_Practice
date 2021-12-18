@@ -1,0 +1,45 @@
+
+{
+    
+"student" : [
+    
+    {
+        "name" : "Asif",
+        "niddleName" : null,
+        "age" : 31,
+        "cgpa" : 3.354,
+        "isRagisterKey" : true,
+        "language" : ["Bangali","English","Hindi"],
+        "friend" : [
+            {
+                "name" : "Anar",
+                "age" : 25
+            },
+            {
+                "name" : "Ruhim",
+                "age" : 28
+            }
+        ]    
+    },
+    
+    
+    {
+        "name" : "Rony",
+        "niddleName" : null,
+        "age" : 23,
+        "cgpa" : 3.54,
+        "isRagisterKey" : true,
+        "language" : ["Arbi","English","Hindi"],
+        "friend" : [
+            {
+                "name" : "Shakila",
+                "age" : 29
+            },
+            {
+                "name" : "Tuli",
+                "age" : 19
+            }
+        ]    
+    }
+    ]
+}
